@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JongmanBook/JongmanBook.iml" filepath="$PROJECT_DIR$/JongmanBook/JongmanBook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/01.문제 해결 시작하기.iml" filepath="$PROJECT_DIR$/JongmanBook/01.문제 해결 시작하기.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/01_문제해결시작하기.iml" filepath="$PROJECT_DIR$/JongmanBook/01_문제해결시작하기.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalDevelopment.iml" filepath="$PROJECT_DIR$/.idea/PersonalDevelopment.iml" />
     </modules>
   </component>
