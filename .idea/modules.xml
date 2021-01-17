@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/01_문제해결시작하기/01_문제해결시작하기.iml" filepath="$PROJECT_DIR$/JongmanBook/01_문제해결시작하기/01_문제해결시작하기.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/06_무식하게풀기/06_무식하게풀기.iml" filepath="$PROJECT_DIR$/JongmanBook/06_무식하게풀기/06_무식하게풀기.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/07_분할정복/07_분할정복.iml" filepath="$PROJECT_DIR$/JongmanBook/07_분할정복/07_분할정복.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/08_동적계획법/08_동적계획법.iml" filepath="$PROJECT_DIR$/JongmanBook/08_동적계획법/08_동적계획법.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/13_수치해석/13_수치해석.iml" filepath="$PROJECT_DIR$/JongmanBook/13_수치해석/13_수치해석.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/16_비트마스크/16_비트마스크.iml" filepath="$PROJECT_DIR$/JongmanBook/16_비트마스크/16_비트마스크.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/17_부분합/17_부분합.iml" filepath="$PROJECT_DIR$/JongmanBook/17_부분합/17_부분합.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/18_선형자료구조/18_선형자료구조.iml" filepath="$PROJECT_DIR$/JongmanBook/18_선형자료구조/18_선형자료구조.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/19_큐와스택데크/19_큐와스택데크.iml" filepath="$PROJECT_DIR$/JongmanBook/19_큐와스택데크/19_큐와스택데크.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/20_문자열/20_문자열.iml" filepath="$PROJECT_DIR$/JongmanBook/20_문자열/20_문자열.iml" />
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/JongmanBook.iml" filepath="$PROJECT_DIR$/JongmanBook/JongmanBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalDevelopment.iml" filepath="$PROJECT_DIR$/.idea/PersonalDevelopment.iml" />
     </modules>
