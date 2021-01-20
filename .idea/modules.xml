@@ -12,6 +12,12 @@
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/18_선형자료구조/18_선형자료구조.iml" filepath="$PROJECT_DIR$/JongmanBook/18_선형자료구조/18_선형자료구조.iml" />
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/19_큐와스택데크/19_큐와스택데크.iml" filepath="$PROJECT_DIR$/JongmanBook/19_큐와스택데크/19_큐와스택데크.iml" />
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/20_문자열/20_문자열.iml" filepath="$PROJECT_DIR$/JongmanBook/20_문자열/20_문자열.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/21_트리의구현과순회/21_트리의구현과순회.iml" filepath="$PROJECT_DIR$/JongmanBook/21_트리의구현과순회/21_트리의구현과순회.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/22_이진검색트리/22_이진검색트리.iml" filepath="$PROJECT_DIR$/JongmanBook/22_이진검색트리/22_이진검색트리.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/23_우선순위큐와힙/23_우선순위큐와힙.iml" filepath="$PROJECT_DIR$/JongmanBook/23_우선순위큐와힙/23_우선순위큐와힙.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/25_상호배타적집합/25_상호배타적집합.iml" filepath="$PROJECT_DIR$/JongmanBook/25_상호배타적집합/25_상호배타적집합.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/26_트라이/26_트라이.iml" filepath="$PROJECT_DIR$/JongmanBook/26_트라이/26_트라이.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JongmanBook/28_그래프의깊이우선탐색/28_그래프의깊이우선탐색.iml" filepath="$PROJECT_DIR$/JongmanBook/28_그래프의깊이우선탐색/28_그래프의깊이우선탐색.iml" />
       <module fileurl="file://$PROJECT_DIR$/JongmanBook/JongmanBook.iml" filepath="$PROJECT_DIR$/JongmanBook/JongmanBook.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PersonalDevelopment.iml" filepath="$PROJECT_DIR$/.idea/PersonalDevelopment.iml" />
     </modules>
